@@ -1,5 +1,6 @@
 # NLP_Project
 In this project, I scrap, process and analyze textual data using nlp python libraries. 
+
 1 - Scraping 
 
 2 - Text processing (NLP)
