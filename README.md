@@ -1,7 +1,9 @@
 # NLP_Project
 In this project, I scrap, process and analyze textual data using nlp python libraries. 
 1 - Scraping 
+
 2 - Text processing (NLP)
+
 3 - Choose of the Keys indicators 
 *** NB Posts
 *** NB Views
@@ -18,4 +20,4 @@ In this project, I scrap, process and analyze textual data using nlp python libr
 *** lines of the trend of nb posts, nb_views per year or date
 *** Countries frequencies Map
 
-5 - Machine Learnin
+5 - Machine Learning
