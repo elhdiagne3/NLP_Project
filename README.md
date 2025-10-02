@@ -2,6 +2,7 @@
 In this project, I scrap, process and analyze textual data using nlp python libraries. 
 
 1 - Scraping 
+*** Après scraping, nettoyage du fichier pour élager les post non liés à la fraude data
 
 2 - Text processing (NLP)
 
